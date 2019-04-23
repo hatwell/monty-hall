@@ -4,9 +4,10 @@ import {Door} from './door'
 export default class Game {
 
 	constructor(numberOfDoors){
+	    // eslint-disable-next-line no-unused-expressions
 	    this.numberOfDoors = numberOfDoors || 3 ,
 		this.prizes = [],
-	    this.doors =[]
+		this.doors =[]
 	    }
 	
 

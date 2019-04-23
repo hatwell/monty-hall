@@ -1,0 +1,3 @@
+export const CHOOSE_DOOR = 'CHOOSE_DOOR'
+
+export const SELECT_NUMBER_OF_GAMES = 'SELECT_NUMBER_OF_GAMES'

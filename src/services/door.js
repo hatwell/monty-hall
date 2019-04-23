@@ -6,4 +6,5 @@ export class Door {
         this.playerChosen = playerChosen
         this.hostChosen = hostChosen
     }
+    
 }
